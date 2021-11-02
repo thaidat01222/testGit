@@ -1,4 +1,4 @@
 console.log('thai duy dat')
-function A (a,b) {
-    //
+function B(a,b) {
+    //temp
 }
